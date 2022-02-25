@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/github/stars/m4mallu/clonebot?style=social">
     </a>
     <a href="https://github.com/m4mallu/clonebot/fork">
-        <img src="https://img.shields.io/github/forks/m4mallu/clonebot?label=Fork&style=social">
+        <img src="https://img.shields.io/github/forks/howtodoyt6/clonebot?label=Fork&style=social">
     </a>  
 </p>
 
